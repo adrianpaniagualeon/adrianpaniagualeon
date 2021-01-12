@@ -24,4 +24,4 @@
 </p>
 <p align='center'> You can get more information about me in <a href="https://cv.adrianpaniagua.es">my CV</a> .</p>
 
-<p align='center'> [![My Github Stats](https://github-readme-stats.vercel.app/api?username=adrianpaniagualeon)](https://github.com/anuraghazra/adrianpaniagualeon).</p>
+
