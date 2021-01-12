@@ -22,6 +22,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
   </a>&nbsp;&nbsp;
 </p>
-<p align='center'> You can get more information about me in <a target="_blank href="https://cv.adrianpaniagua.es">my CV</a> .</p>
+<p align='center'> You can get more information about me in <a href="https://cv.adrianpaniagua.es">my CV</a> .</p>
 
 
