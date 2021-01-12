@@ -9,19 +9,19 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/adrianpaniagualeon/">
+  <a target="_blank href="https://www.linkedin.com/in/adrianpaniagualeon/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/paniagua_leon">
+  <a target="_blank href="https://instagram.com/paniagua_leon">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://telegram.me/APLEONI">
+   <a target="_blank href="https://telegram.me/APLEONI">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
   <a href="mailto:github@adrianpaniagua.es">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
   </a>&nbsp;&nbsp;
 </p>
-<p align='center'> You can get more information about me in <a href="https://cv.adrianpaniagua.es">my CV</a> .</p>
+<p align='center'> You can get more information about me in <a target="_blank href="https://cv.adrianpaniagua.es">my CV</a> .</p>
 
 
