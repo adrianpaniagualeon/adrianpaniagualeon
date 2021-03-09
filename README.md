@@ -24,4 +24,6 @@
 </p>
 <p align='center'> You can get more information about me in <a href="https://cv.adrianpaniagua.es">my CV</a> .</p>
 
-
+# Lastest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
