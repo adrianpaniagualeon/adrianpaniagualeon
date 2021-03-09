@@ -26,4 +26,6 @@
 
 # Lastest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Las IPs dinámicas ya no son un problema](https://ciber.adrianpaniagua.es/post/645210791110443008)
+- [Compras seguras online](https://ciber.adrianpaniagua.es/post/636933108543946752)
 <!-- BLOG-POST-LIST:END -->
