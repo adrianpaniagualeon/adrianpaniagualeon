@@ -24,7 +24,7 @@
 </p>
 <p align='center'> You can get more information about me in <a href="https://cv.adrianpaniagua.es">my CV</a> .</p>
 
-# Lastest Blog posts ([ciber.adrianpaniagua.es](https://ciber.adrianpaniagua.es))
+# Lastest Blog Posts ([ciber.adrianpaniagua.es](https://ciber.adrianpaniagua.es))
 <!-- BLOG-POST-LIST:START -->
 - [Copias de seguridad, lo más preciado esta semana](https://ciber.adrianpaniagua.es/post/645626970565214208)
 - [Las IPs dinámicas ya no son un problema](https://ciber.adrianpaniagua.es/post/645210791110443008)
