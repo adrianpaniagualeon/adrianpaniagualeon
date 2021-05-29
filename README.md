@@ -26,9 +26,9 @@
 
 # Lastest Blog Posts ([ciber.adrianpaniagua.es](https://ciber.adrianpaniagua.es))
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué elegí estudiar ingeniería informática?](https://ciber.adrianpaniagua.es/post/652466000894263296)
 - [Nunca guardes las contraseñas en un Word. Utiliza un gestor de contraseñas](https://ciber.adrianpaniagua.es/post/646267817508913153)
 - [Omegle permite ver la ubicación de las personas con las que hablamos](https://ciber.adrianpaniagua.es/post/645920892123332608)
 - [¿Cómo he montado un servidor en mi salón?](https://ciber.adrianpaniagua.es/post/645844297554542592)
 - [Copias de seguridad, lo más preciado esta semana](https://ciber.adrianpaniagua.es/post/645626970565214208)
-- [Las IPs dinámicas ya no son un problema](https://ciber.adrianpaniagua.es/post/645210791110443008)
 <!-- BLOG-POST-LIST:END -->
