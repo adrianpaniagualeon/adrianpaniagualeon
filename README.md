@@ -26,9 +26,9 @@
 
 # Lastest Blog Posts ([ciber.adrianpaniagua.es](https://ciber.adrianpaniagua.es))
 <!-- BLOG-POST-LIST:START -->
-- [¿Por qué elegí estudiar ingeniería informática?](https://ciber.adrianpaniagua.es/2021/05/28/por-que-elegi-estudiar-ingenieria-informatica/)
-- [Nunca guardes las contraseñas en un Word](https://ciber.adrianpaniagua.es/2021/03/21/nunca-guardes-las-contrasenas-en-un-word-utiliza/)
-- [Omegle permite ver la ubicación de las personas con las que hablamos](https://ciber.adrianpaniagua.es/2021/03/17/omegle-permite-ver-la-ubicacion-de-las-personas/)
-- [¿Cómo he montado un servidor en mi salón?](https://ciber.adrianpaniagua.es/2021/03/16/como-he-montado-un-servidor-en-mi-salon/)
-- [Copias de seguridad, lo más preciado esta semana](https://ciber.adrianpaniagua.es/2021/03/14/copias-de-seguridad-lo-mas-preciado-esta-semana/)
+- [¿Por qué elegí estudiar ingeniería informática?](http://ciber.adrianpaniagua.es/2021/05/28/por-que-elegi-estudiar-ingenieria-informatica/)
+- [Nunca guardes las contraseñas en un Word](http://ciber.adrianpaniagua.es/2021/03/21/nunca-guardes-las-contrasenas-en-un-word-utiliza/)
+- [Omegle permite ver la ubicación de las personas con las que hablamos](http://ciber.adrianpaniagua.es/2021/03/17/omegle-permite-ver-la-ubicacion-de-las-personas/)
+- [¿Cómo he montado un servidor en mi salón?](http://ciber.adrianpaniagua.es/2021/03/16/como-he-montado-un-servidor-en-mi-salon/)
+- [Copias de seguridad, lo más preciado esta semana](http://ciber.adrianpaniagua.es/2021/03/14/copias-de-seguridad-lo-mas-preciado-esta-semana/)
 <!-- BLOG-POST-LIST:END -->
